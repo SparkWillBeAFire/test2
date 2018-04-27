@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/travelMavenProject/travelMavenProject.iml" filepath="$PROJECT_DIR$/travelMavenProject/travelMavenProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/travelProject/travelMavenProject.iml" filepath="$PROJECT_DIR$/travelProject/travelMavenProject.iml" />
+    </modules>
+  </component>
+</project>
